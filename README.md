@@ -1,5 +1,7 @@
 # 🧩 **How the Multilingual Dubbing Pipeline Thinks**
 
+video demo - https://drive.google.com/file/d/1rn-Uv56FF3FwM8yEWOEv5-uahPEU3qJF/view?usp=sharing
+
 I wanted a system that turns *any* YouTube video into a natural‑sounding dub in another language while preserving each speaker’s vibe. Below is the mental wiring diagram—why each choice was made and what still hurts.
 
 ---
