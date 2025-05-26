@@ -1,0 +1,7 @@
+google-genai
+yt_dlp
+ffmpeg  # brew install 
+soundfile
+openai
+librosa
+pydub
